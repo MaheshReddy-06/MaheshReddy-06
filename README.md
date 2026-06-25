@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m Mahesh Reddy<br>B.Tech CSE Student at SR University<br>Passionate about Software Development & Problem Solving<br>Currently learning Full Stack Development and DSA<br>Skilled in Python, Java, SQL, HTML, CSS, and JavaScript<br>Interested in AI Projects and Scalable Web Applications
+Hi, I’m Mahesh<br>B.Tech CSE Student at SR University<br>Passionate about Software Development & Problem Solving<br>Currently learning Full Stack Development and DSA<br>Skilled in Python, Java, SQL, HTML, CSS, and JavaScript<br>Interested in AI Projects and Scalable Web Applications
 
 
 ## 🌐 Socials:
