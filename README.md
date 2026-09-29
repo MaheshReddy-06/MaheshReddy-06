@@ -28,7 +28,7 @@ I'm a computer science student who enjoys building software and solving problems
 - 🌱 **Currently learning:** Full Stack Development and DSA
 - 🛠️ **Skilled in:** Python, SQL, HTML, CSS, JavaScript
 - 🤖 **Interested in:** AI projects and scalable web applications
-- 📬 **Reach me:** [maheshreddykashireddy@gmail.com](mailto:maheshreddykashireddy@gmail.com)
+- 📬 **Reach me:** [maheshreddy1755@gmail.com](mailto:maheshreddy1755@gmail.com)
 
 ---
 
