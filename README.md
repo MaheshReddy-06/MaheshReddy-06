@@ -94,8 +94,7 @@ Uncomment this block and fill it in once you're ready to show projects.
 
 - 📚 Learning **Full Stack Development**
 - 🧩 Practicing **Data Structures & Algorithms**
-- 🤖 Exploring **AI projects**
-- 🚀 Building toward **scalable web applications**
+- 🚀 Building toward **scalable web & ai applications**
 
 ---
 
