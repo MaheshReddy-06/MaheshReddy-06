@@ -26,7 +26,7 @@ I'm a computer science student who enjoys building software and solving problems
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering, SR University
 - 🌱 **Currently learning:** Full Stack Development and DSA
-- 🛠️ **Skilled in:** Python, SQL, HTML, CSS, JavaScript
+- 🛠️ **Skilled in:** Python, SQL, HTML, CSS, JavaScript, Django
 - 🤖 **Interested in:** AI projects and scalable web applications
 - 📬 **Reach me:** [maheshreddy1755@gmail.com](mailto:maheshreddy1755@gmail.com)
 
